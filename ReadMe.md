@@ -61,8 +61,7 @@ To build and run this project, you will need:
 
 **Step 1: Clone the Repository**
 
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
+[git clone https://github.com/your-username/your-repository-name.git](https://github.com/Wanderson25/File_Downloader.git)
 
 **Step 2: Start the Server**
 
