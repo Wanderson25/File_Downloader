@@ -60,7 +60,7 @@ To build and run this project, you will need:
 ### 🚀 Running the Project
 
 **Step 1: Clone the Repository**
-```bash
+
 git clone https://github.com/your-username/your-repository-name.git
 cd your-repository-name
 
